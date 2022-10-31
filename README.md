@@ -16,7 +16,21 @@ The ‘Order’ class contains the majority of the functionality in the solution
 
 # Objectives
 We would like to see:
--	refactoring to improve the code as you see fit
+-	refactoring to improve the code as you see fit, such as utilising SOLID design principles and/or other design patterns.
 -	the tests still pass
 -	that you focus on the areas you deem most important (we care more about your overall approach than minor syntactical issues)
 -	that where you haven’t had time to fully refactor, you have added comments to highlight what you may do if given more time
+
+# Making changes and sending us your code
+## GitHub
+The best way is to:
+- fork this GitHub repository using the 'Fork' option at the top of this page. This will ensure you have your own copy under your own GitHub account.
+- connect your editor (VS/VS Code etc) to your forked repository in GitHub
+- make any changes ensuring you push those changes up to GitHub (under your own forked respository)
+- send us a link to your GitHub repository
+
+## Zip
+Alternatively you can (this can be less reliable as the zip file can get caught by spam or virus filters):
+- download the code from this repository using the 'code' button
+- make your changes offline
+- send us a copy of your code in a zip file
